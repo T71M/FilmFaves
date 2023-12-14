@@ -1,0 +1,15 @@
+.primary-button {
+  height: 66px;
+  color: #ffffff;
+  font-weight: 600;
+  width: 100%;
+  font-family: "Poppins";
+  border: none;
+  cursor: pointer;
+  transition: all linear 0.3s;
+  font-size: 16px;
+}
+
+.primary-button:hover {
+  opacity: 0.8;
+}
